@@ -10,7 +10,7 @@ Portfolio of work styled with Bootstrap to showcase my frontend web development 
 
 ## Usage
 
-![Screenchot online portfolio](./images/Portfolio1.png)
+![Screenchot online portfolio](./images/Portfolio1-v1.png)
 
 ## Credits
 
